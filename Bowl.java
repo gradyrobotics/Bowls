@@ -1,17 +1,17 @@
 /**
- * TODO COMMENT
+ * TODO COMMENTjndqjwndjqnkwnjd
  */
 public class Bowl {
     //TODO COMMENT
     double size;//TODO COMMENT
-    String color;//TODO COMMENT
+    String color;//TODO COMMENTjqnwdjnqjdn
     String material;//TODO COMMENT
 
     /**
      * TODO COMMENT
      */
     public Bowl(double size, String color, String material) {
-        //TODO COMMENT
+        //TODO COMMENTbqjwndnjwndjqnwjdn
         this.size = size;
         this.color = color;
         this.material = material;
